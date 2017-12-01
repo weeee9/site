@@ -111,13 +111,6 @@ msgstr "Рейтинг"
 msgid "Organization"
 msgstr "Организация"
 
-#: .\judge\admin\contest.py:126
-#, python-format
-msgid "%d contest successfully marked as public."
-msgid_plural "%d contests successfully marked as public."
-msgstr[0] "%d конкурс успешно помечен как публичный."
-msgstr[1] ""
-msgstr[2] ""
 
 #: .\judge\admin\contest.py:129
 msgid "Mark contests as public"
